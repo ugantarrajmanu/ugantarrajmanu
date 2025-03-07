@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AIML
 - 📫 How to reach me
-    - manugantarraj@gmail.com
+    - ugantarrajmanu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Human.
 
